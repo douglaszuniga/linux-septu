@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+
 # install Homebrew
 
 # ask for adm pass upfront
